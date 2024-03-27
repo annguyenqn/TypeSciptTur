@@ -1,4 +1,3 @@
 console.log('HELLO Loi 1');
-console.log('HELLO Loi 2');
-console.log('HELLO Loi 3');
-
+// cứ coi cái mình đg xem i
+// revert xong phải commit lại nha
